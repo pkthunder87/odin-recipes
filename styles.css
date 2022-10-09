@@ -1,0 +1,28 @@
+body {
+    background-color: #2E2FE3;
+    color: azure;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.links {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.shrimp {
+    background-color: #FC600A;
+}
+
+.steak {
+    background-color: #C21460;
+    color: #34091C;
+}
+
+#meatloaf {
+    background-color: #FDED2A;
+    color: #AE0D7A;
+}
