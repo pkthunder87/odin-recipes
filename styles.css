@@ -1,11 +1,7 @@
 body {
-    background-color: #2E2FE3;
+    background-color: fuchsia;
     color: azure;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-h1 {
-    text-align: center;
 }
 
 .links {
@@ -17,12 +13,17 @@ h1 {
     background-color: #FC600A;
 }
 
-.steak {
-    background-color: #C21460;
-    color: #34091C;
+.lamb {
+    background-color: #34091C;
+    color: white;
 }
 
 #meatloaf {
     background-color: #FDED2A;
     color: #AE0D7A;
 }
+
+a:link, a:visited {
+    text-decoration: none;
+    color: blue;
+  }
